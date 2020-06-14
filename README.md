@@ -6,5 +6,5 @@
    - :black_nib:  Programming Assignment : Handwriting Recognition
 - **week 3** : Enhancing Vision with Convolutional Neural Networks
    - :muscle: Programming Assignment : Improve MNIST with convolutionsz
-- **week 4** : Enhancing Vision with Convolutional Neural Networks
-   - :muscle: Programming Assignment : Improve MNIST with convolutions
+- **week 4** : Using Real-world Images
+   - :earth_asia: Programming Assignment : Handling complex images
