@@ -1,2 +1,6 @@
-# TensorFlow-in-Practice-Offered-by
-This is my code when I'm studying "TensorFlow in Practice" by Deeplearning.ai
+# TensorFlow in Practice
+Course 1 : Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+- week 1 : A New Programming Paradigm
+    - Programming Assignment : Housing Prices
+- week 2 : Introduction to Computer Vision
+    - Programming Assignment : Handwriting Recognition
