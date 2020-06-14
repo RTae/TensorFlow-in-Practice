@@ -1,5 +1,5 @@
 # TensorFlow in Practice
-:pushpin: **Course 1 : Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+:pushpin: **Course 1 : Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
 - **week 1** : A New Programming Paradigm
     - :house: Programming Assignment : Housing Prices
 - **week 2** : Introduction to Computer Vision
