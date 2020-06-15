@@ -12,3 +12,7 @@
       /[Horses or Humans Convnet](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%202%20-%20Notebook.ipynb)
       /[Horses or Humans with Validation](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%203%20-%20Notebook.ipynb)
       /[Horses or Humans with Compacting of Images](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%204%20-%20Notebook.ipynb)
+      
+:pushpin: **Course 2 : Convolutional Neural Networks in TensorFlow**
+- **week 1** : Exploring a Larger Dataset
+   - :cat::dog: Programming Assignment : Cats vs. Dogs
