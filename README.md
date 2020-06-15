@@ -18,7 +18,7 @@
    - :cat::dog: Programming Assignment : Cats vs. Dogs
 - **week 2** : Augmentation: A technique to avoid overfitting
    - :twisted_rightwards_arrows::cat::dog: Programming Assignment : Cats vs. Dogs using augmentation
-- **week 3** : Exploring a Larger Dataset
-   - :cat::dog: Programming Assignment : Cats vs. Dogs
+- **week 3** : Transfer Learning
+   - :man::horse: Programming Assignment : Horses vs. humans using Transfer Learning
 - **week 4** : Exploring a Larger Dataset
    - :cat::dog: Programming Assignment : Cats vs. Dogs
