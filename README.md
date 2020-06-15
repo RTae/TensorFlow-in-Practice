@@ -20,5 +20,5 @@
    - :twisted_rightwards_arrows::cat::dog: Programming Assignment : Cats vs. Dogs using augmentation
 - **week 3** : Transfer Learning
    - :man::horse: Programming Assignment : Horses vs. humans using Transfer Learning
-- **week 4** : Exploring a Larger Dataset
-   - :cat::dog: Programming Assignment : Cats vs. Dogs
+- **week 4** : Multiclass Classifications
+   - :cat::dog: Programming Assignment : Multi-class classifier
