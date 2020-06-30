@@ -24,9 +24,9 @@
    - :open_hands: Programming Assignment : Multi-class classifier
    - :link: link : [Datasets](https://www.kaggle.com/datamunge/sign-language-mnist/home)
 
-:pushpin: **Course 2 : Natural Language Processing in TensorFlow**
+:pushpin: **Course 3 : Natural Language Processing in TensorFlow**
 - **week 1** : Sentiment in text
-   - :cat::dog: Programming Assignment : Cats vs. Dogs
+   - :cat::dog: Programming Assignment : 
 - **week 2** : 
    - :twisted_rightwards_arrows::cat::dog: Programming Assignment : 
 - **week 3** : 
