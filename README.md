@@ -26,9 +26,9 @@
 
 :pushpin: **Course 3 : Natural Language Processing in TensorFlow**
 - **week 1** : Sentiment in text
-   - :news: Programming Assignment : Explore the BBC News Archive
+   - :newspaper: Programming Assignment : Explore the BBC News Archive
 - **week 2** : 
-   - :twisted_rightwards_arrows::cat::dog: Programming Assignment : 
+   - :newspaper: Programming Assignment : More on the BBC News Archive
 - **week 3** : 
    - :man::horse: Programming Assignment : 
 - **week 4** : 
