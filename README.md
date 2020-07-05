@@ -27,10 +27,10 @@
 :pushpin: **Course 3 : Natural Language Processing in TensorFlow**
 - **week 1** : Sentiment in text
    - :newspaper: Programming Assignment : Explore the BBC News Archive
-- **week 2** : 
+- **week 2** : Word Embeddings
    - :newspaper: Programming Assignment : More on the BBC News Archive
-- **week 3** : 
+- **week 3** : Sequence models
    - :man::horse: Programming Assignment : 
-- **week 4** : 
+- **week 4** : Sequence models and literature
    - :open_hands: Programming Assignment : 
   
