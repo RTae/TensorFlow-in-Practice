@@ -30,7 +30,7 @@
 - **week 2** : Word Embeddings
    - :newspaper: Programming Assignment : More on the BBC News Archive
 - **week 3** : Sequence models
-   - :man::horse: Programming Assignment : 
+   - Programming Assignment : Exploring overfitting in NLP
 - **week 4** : Sequence models and literature
-   - :open_hands: Programming Assignment : 
+   - Programming Assignment : 
   
