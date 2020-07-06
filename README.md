@@ -32,5 +32,5 @@
 - **week 3** : Sequence models
    - Programming Assignment : Exploring overfitting in NLP
 - **week 4** : Sequence models and literature
-   - Programming Assignment : 
+   - Programming Assignment : Using LSTMs, see if you can write Shakespeare!
   
