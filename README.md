@@ -34,3 +34,13 @@
 - **week 4** : Sequence models and literature
    - Programming Assignment : Using LSTMs, see if you can write Shakespeare!
   
+:pushpin: **Course 4 : Sequences, Time Series and Prediction**
+- **week 1** : Sequences and Prediction
+   - :newspaper: Programming Assignment : Create and predict synthetic data
+- **week 2** : Deep Neural Networks for Time Series
+   - :newspaper: Programming Assignment : Create Synthetic Data and predict with a DNN
+- **week 3** : Recurrent Neural Networks for Time Series
+   - Programming Assignment : Mean Absolute Error
+- **week 4** : Real-world time series data
+   - Programming Assignment : Sunspots
+  
